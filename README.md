@@ -1,1 +1,2 @@
-Ejercicio propuesto por ADALAB ejecutado en pair programing con Andrea 
+Ejercicios propuestos por ADALAB en los que se ha trabajado con Pandas y Numpys.
+Trabajo de pair programming de Andrea y Clara
